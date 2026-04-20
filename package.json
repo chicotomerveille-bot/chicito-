@@ -1,0 +1,12 @@
+{
+  "name": "chips-gestion-pro",
+  "version": "1.0.0",
+  "description": "Application de gestion de production et finances pour Chips PME",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["gestion", "chips", "pme", "finances", "production"],
+  "author": "",
+  "license": "MIT"
+}
